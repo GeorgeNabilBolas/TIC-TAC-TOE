@@ -44,15 +44,14 @@ flutter build apk
 - Win by getting three in a row, or it's a draw if the board fills up.
 
 ## Screenshots 📸
-<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/b76001d2-1363-4963-bb54-82a599c96675" />
-<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/b76001d2-1363-4963-bb54-82a599c96675" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/50e90064-9db0-41fe-8919-90bda3325c8d" />
 <img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/dc99497e-c4d8-4292-a1bb-4bbe4501dcbd" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/b76001d2-1363-4963-bb54-82a599c96675" />
 <img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/1501d7e7-a7e0-4020-981a-508040f3cddf" />
 <img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/e09732d6-d754-48f6-8089-ffb7b1649262" />
 <img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/6229d7a7-b921-46d0-8c03-20f7c30c5169" />
 <img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/0ef89db3-c551-4e55-8b5c-78ce03d2e450" />
 <img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/d591aaab-3f40-4c89-b15b-f9f493424162" />
-<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/50e90064-9db0-41fe-8919-90bda3325c8d" />
 
 ## Dependencies 📦
 - `audioplayers`: For sound effects.
