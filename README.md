@@ -64,6 +64,6 @@ flutter build apk
 Contributions are welcome! Fork the repo, create a branch, and submit a pull request. Let's make this game even better.
 
 ## License 📄
-This project is puplic for education.
+You are free to modify and extend it for personal or educational use.
 
 Made with ❤️ using Flutter. Have fun playing! 😊
