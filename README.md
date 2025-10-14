@@ -44,15 +44,15 @@ flutter build apk
 - Win by getting three in a row, or it's a draw if the board fills up.
 
 ## Screenshots 📸
-![1760474951407](https://github.com/user-attachments/assets/34b78e71-db2c-4595-8054-3935a1534a18)
-![1760474951388](https://github.com/user-attachments/assets/24c2dace-d3c4-41e0-9dec-2cdc7fe7874c)
-![1760474951369](https://github.com/user-attachments/assets/0cea6c7c-3797-4594-8634-49ab514bc9d6)
-![1760474951349](https://github.com/user-attachments/assets/4f0bad28-9f14-4d5a-babb-64dcc00b1753)
-![1760474951330](https://github.com/user-attachments/assets/0c6c2598-d5f4-4f6f-a483-ef31ab3c171f)
-![1760474951312](https://github.com/user-attachments/assets/a061a06a-f0f6-4eaf-b092-a5de7a3574ec)
-![1760474951293](https://github.com/user-attachments/assets/918ed5de-6293-4b49-8504-88bacb2bdb77)
-![1760474951273](https://github.com/user-attachments/assets/c8bd70e9-29e7-4c44-9e81-b1db94227d9f)
-
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/b76001d2-1363-4963-bb54-82a599c96675" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/b76001d2-1363-4963-bb54-82a599c96675" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/dc99497e-c4d8-4292-a1bb-4bbe4501dcbd" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/1501d7e7-a7e0-4020-981a-508040f3cddf" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/e09732d6-d754-48f6-8089-ffb7b1649262" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/6229d7a7-b921-46d0-8c03-20f7c30c5169" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/0ef89db3-c551-4e55-8b5c-78ce03d2e450" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/d591aaab-3f40-4c89-b15b-f9f493424162" />
+<img width="100" height="250" alt="1" src="https://github.com/user-attachments/assets/50e90064-9db0-41fe-8919-90bda3325c8d" />
 
 ## Dependencies 📦
 - `audioplayers`: For sound effects.
