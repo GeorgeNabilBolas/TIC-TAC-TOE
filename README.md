@@ -21,7 +21,7 @@ A fun, classic Tic-Tac-Toe game built with Flutter! Challenge the AI in single-p
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/TIC-TAC-TOE-master.git
+   git clone https://github.com/GeorgeNabilBolas/TIC-TAC-TOE-master.git
    cd TIC-TAC-TOE-master
    ```
 2. Install dependencies:
