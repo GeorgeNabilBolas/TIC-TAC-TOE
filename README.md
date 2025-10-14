@@ -2,7 +2,7 @@
 
 A fun, classic Tic-Tac-Toe game built with Flutter! Challenge the AI in single-player mode or play with a friend in two-player mode. Enjoy customizable avatars, difficulty levels, sound effects, and smooth animations for an engaging experience.
 
-![Game Screenshot](https://github.com/user-attachments/assets/1a5eca53-3746-466e-8d15-9dde4d54b6c7)
+<img width="800" height="470" alt="Neutral and Orange Minimal Freebie Lead Magnet Mobile Screen Mockup Pinterest Pin" src="https://github.com/user-attachments/assets/830c6ad4-fd9c-424a-9a1b-bc6eaf916898" />
 
 ## Features ✨
 - **Single Player Mode**: Play against the computer with Easy, Medium, or Hard difficulty.
